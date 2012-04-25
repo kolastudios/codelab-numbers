@@ -1,3 +1,4 @@
+## Numb3rs
 This is the Numbers game we are going to make during todays Codelab.
 Pre-requisites:
 * Java knowlegde
@@ -15,3 +16,5 @@ Right click this project (On the left navigation), then go to Properties.
 Select Android on the left menu, and press Add left of the library, then select the andengine project.
 
 You now have the most recent version of andengine, and the boot camp project configured to run it.
+
+The slides will be made available here
