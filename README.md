@@ -7,7 +7,7 @@ Pre-requisites:
 
 We will be using Eclipse as the IDE
 
-Download the andengine source from: https://github.com/nicolasgramlich/AndEngine/zipball/GLES2
+Download the andengine source from: https://www.dropbox.com/s/ivcjrst0iifnos8/andengine.zip
 
 Unzip the andengine files, and import them as a project into Eclipse.
 
