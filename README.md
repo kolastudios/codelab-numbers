@@ -1,7 +1,7 @@
 ## Numb3rs
 This is the Numbers game we are going to make during todays Codelab.
 Pre-requisites:
-* Java knowlegde
+* Java knowledge
 * An IDE (preferable Eclipse)
 * Android Developer Tools (Recent version)
 
